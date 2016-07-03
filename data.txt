@@ -1,0 +1,1 @@
+{"object": "page", "entry": [{"messaging": [{"recipient": {"id": "592742837569453"}, "message": {"text": "Fuck", "seq": 156, "mid": "mid.1467565652912:b473f6900d0b06bc05"}, "timestamp": 1467565652956, "sender": {"id": "1111830915544795"}}], "time": 1467565652985, "id": "592742837569453"}]}
